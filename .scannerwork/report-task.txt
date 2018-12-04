@@ -1,0 +1,6 @@
+projectKey=dev4tests:testunitaires
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/dev4tests:testunitaires
+ceTaskId=AWd4V7NvV3B4IcYVGYQM
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWd4V7NvV3B4IcYVGYQM
